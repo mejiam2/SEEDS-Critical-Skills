@@ -1,3 +1,5 @@
+
+
 #Manual data
 d<-read.csv("wp.csv")
 str(d)
