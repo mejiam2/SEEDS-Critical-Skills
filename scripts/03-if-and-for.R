@@ -42,7 +42,7 @@ for (i in 1:5) {
 
 #Q2: Complete code to print out name of each bird
 
-birds = c(‘robin’, ‘woodpecker’, ‘blue jay’, ‘sparrow’)
+birds = c("robin", "woodpecker", "blue jay", "sparrow")
 
 for (i in 1:length(birds)){
   print(birds[i])
