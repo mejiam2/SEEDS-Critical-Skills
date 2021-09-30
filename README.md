@@ -27,15 +27,15 @@ Finally, sign up for a GitHub account ([github.com](https://github.com/)) if you
 
 ### Project Files
 
-* data_raw folder
-  * portal_data_joined.csv: example data from portal project
-* scripts folder
-  * 02-funtions.R: Funtions
-  * 03-if-and-for.R: In and For code
-  * 04-plotting.R: ggplots
-  * 05-publishing.R: New info
-  * plots_ts.R: Other plots
-*plots folder
+* `data_raw` folder
+  * `portal_data_joined.csv`: example data from [portal project](https://portal.weecology.org/)
+* `scripts` folder
+  * `02-funtions.R`: Funtions
+  * `03-if-and-for.R`: In and For code
+  * `04-plotting.R`: ggplots
+  * `05-publishing.R`: New info
+  * `plots_ts.R`: Other plots
+* `plots` folder
 
 
 
